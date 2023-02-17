@@ -15,4 +15,4 @@
 
 [![Skill](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://web.dio.me/users/yanlucas2202)
 
-Apaixonado por tecnologia, busco ser dev front-end e me aventurar no full-stack
+Busco ser dev front-end e me aventurar no full-stack
