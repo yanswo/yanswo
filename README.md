@@ -24,17 +24,19 @@ Olá, meu nome é Yan Lucas e sou um Desenvolvedor Web, desde 2022 venho me dedi
 ### Estatísticas
 
 <p>
-<img 
+  <img 
     align="left" 
-    alt="Github Stats" 
+    alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px" 
-    src="https://github-readme-stats.vercel.app/api?username=yanswo&show_icons=true&theme=tokyonight&include_all_commits-true&locale=pt-br" 
-/>
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
 <img 
-    align="left" 
-    alt="Github Stats" 
-    height="200"  
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanswo&layout=compact&custom_title=Tecnologias&theme=tokyonight&langs_count=9" 
-/>
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
