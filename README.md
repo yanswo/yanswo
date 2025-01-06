@@ -28,7 +28,7 @@ Olá, meu nome é Yan Lucas e sou um Desenvolvedor Web, desde 2022 venho me dedi
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    width="300"
+    width="340"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=yanswo&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
