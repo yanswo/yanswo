@@ -18,6 +18,9 @@ Olá, meu nome é Yan Lucas e sou um Desenvolvedor Web, desde 2022 venho me dedi
 
 <img align="left" alt="Postgres" title="Postgres" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
+<img align="left" alt="Go" title="Go" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+            
+    
 <br/>
 <br/>
 
