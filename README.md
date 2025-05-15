@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-stack`**
 
-Olá, meu nome é Yan Lucas e comecei como um Desenvolvedor Web, desde 2022 venho me dedicando à programação, com foco em HTML, CSS e JavaScript juntamente do React e suas tecnologias, em 2025 comecei a migração do front-end para o fullstack com TypeScript e Node.js, meu foco atual é trabalhar como um desenvolvedor fullstack focado em performance e acessibilidade, tenho conhecimentos em SQL também.
+Olá, meu nome é Yan Lucas e comecei como um Desenvolvedor Web, desde 2022 venho me dedicando à programação, com foco em HTML, CSS e JavaScript juntamente do React e suas tecnologias, em 2025 comecei a migração do front-end para o fullstack com TypeScript e Node.js, meu foco atual é trabalhar como um desenvolvedor frontend e possivelmente fullstack também, focado em performance e acessibilidade, tenho conhecimentos em SQL também.
 
 
 ### Minhas hard skills
